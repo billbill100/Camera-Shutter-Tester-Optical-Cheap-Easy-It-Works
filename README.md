@@ -9,9 +9,9 @@ This device is a very simple moving LED bar, which can be set to strobe at stand
 
 Each row of LEDs is illumintaed to the set time (1/32s) for example, then extingished as the next row lights.
 
-Setting the LEDs to strobe at the same as the camera shutter speed will result in two (sometimes one) line of LEDs being photograped (using a digital camera). If 3 or more rows are photographed, then it is an indication that the shutter speed is slow. (Set tke LEDs to 1/512 but the camera to 1/30, to see this effect)
+Setting the LEDs to strobe at the same as the camera shutter speed will result in two (sometimes one) lines of LEDs being photograped (using a digital camera). If 3 or more rows are photographed, then it is an indication that the shutter speed is slow. (Set the LEDs to 1/512 but the camera to 1/30, to see this effect)
 
-For a film camera, remove the lens, open the back of the camera. When the shutter is operated you will see through the camera to the LED matrix. You will see the ame LED pattern as decribed above.
+For a film camera, remove the lens, open the back of the camera. When the shutter is operated you will see through the camera to the LED matrix. You will see the same LED pattern as decribed above.
 
 Only four parts are required, 
 Arduino Nano (or Uno) board, 
