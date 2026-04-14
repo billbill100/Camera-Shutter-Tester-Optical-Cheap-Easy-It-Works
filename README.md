@@ -20,3 +20,7 @@ Push-button (This is not even needed, you could just touch two wires togeher)
 Two Dupont wires (or any bit of wire if you want to solder directly to the Arduino board)
 
 Parts & links to them, as well as build docs * firmware are all in the files.
+
+ Github has no direct means of contact, my email address is
+# bill bill github at gmail dot com
+(remove sapces & change to @ . )
